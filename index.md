@@ -2,8 +2,15 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: DSC05979.png
+
+#  feature: wood-texture-1600x800.jpg
+#"C:\Users\Florian\Documents\GitHub\skinny-bones-jekyll\images\DSC05979.png"
+#"C:\Users\Florian\Documents\GitHub\skinny-bones-jekyll\images\IMGP1972.png"
+#"C:\Users\Florian\Documents\GitHub\skinny-bones-jekyll\images\DSC05840.png"
+
 ---
+
 
 <div class="tiles">
 
