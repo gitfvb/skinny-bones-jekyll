@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: DSC05979.png
+  feature: DSC05840.png
 
 #  feature: wood-texture-1600x800.jpg
 #"C:\Users\Florian\Documents\GitHub\skinny-bones-jekyll\images\DSC05979.png"
